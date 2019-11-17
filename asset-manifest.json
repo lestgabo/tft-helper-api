@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tft-helper-data-api/static/css/main.b100e6da.chunk.css",
-    "main.js": "/tft-helper-data-api/static/js/main.ae06efde.chunk.js",
-    "main.js.map": "/tft-helper-data-api/static/js/main.ae06efde.chunk.js.map",
-    "runtime-main.js": "/tft-helper-data-api/static/js/runtime-main.ac4d71c9.js",
-    "runtime-main.js.map": "/tft-helper-data-api/static/js/runtime-main.ac4d71c9.js.map",
-    "static/js/2.6e8845e7.chunk.js": "/tft-helper-data-api/static/js/2.6e8845e7.chunk.js",
-    "static/js/2.6e8845e7.chunk.js.map": "/tft-helper-data-api/static/js/2.6e8845e7.chunk.js.map",
-    "index.html": "/tft-helper-data-api/index.html",
-    "precache-manifest.955246bceaec10d9cdff2c42bad4ce3a.js": "/tft-helper-data-api/precache-manifest.955246bceaec10d9cdff2c42bad4ce3a.js",
-    "service-worker.js": "/tft-helper-data-api/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/tft-helper-data-api/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/tft-helper-api/static/css/main.b100e6da.chunk.css",
+    "main.js": "/tft-helper-api/static/js/main.a477fb6b.chunk.js",
+    "main.js.map": "/tft-helper-api/static/js/main.a477fb6b.chunk.js.map",
+    "runtime-main.js": "/tft-helper-api/static/js/runtime-main.ec36d99c.js",
+    "runtime-main.js.map": "/tft-helper-api/static/js/runtime-main.ec36d99c.js.map",
+    "static/js/2.6e8845e7.chunk.js": "/tft-helper-api/static/js/2.6e8845e7.chunk.js",
+    "static/js/2.6e8845e7.chunk.js.map": "/tft-helper-api/static/js/2.6e8845e7.chunk.js.map",
+    "index.html": "/tft-helper-api/index.html",
+    "precache-manifest.7124c0a9747db88b4d23cbae142f91e4.js": "/tft-helper-api/precache-manifest.7124c0a9747db88b4d23cbae142f91e4.js",
+    "service-worker.js": "/tft-helper-api/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/tft-helper-api/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac4d71c9.js",
+    "static/js/runtime-main.ec36d99c.js",
     "static/js/2.6e8845e7.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.ae06efde.chunk.js"
+    "static/js/main.a477fb6b.chunk.js"
   ]
 }
