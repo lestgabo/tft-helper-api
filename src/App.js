@@ -8,7 +8,7 @@ function App() {
     return (
         <HashRouter basename="/">
             <div>
-                <Route exact path="/" component={API} />>
+                <Route exact path="/" component={API} />
             </div>
         </HashRouter>
     );
