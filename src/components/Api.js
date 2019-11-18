@@ -16,8 +16,8 @@ class API extends React.Component {
                 <div>
                     <ul>
                         <li>
-                            <a href="https://github.com/lestgabo/tft-helper-api" target="_blank">
-                                Edit data here.
+                            <a href="https://github.com/lestgabo/tft-helper-api/tree/master/public" target="_blank">
+                                Edit data here. Under the files <strong>champDropRates.json and metaCompositions.json</strong>.
                             </a>
                         </li>
                         <li>
