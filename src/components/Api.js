@@ -32,6 +32,13 @@ class API extends React.Component {
                         </li>
                     </ul>
                 </div>
+                <div>
+                    <h2>
+                        <i>
+                            Need to run <code>`yarn run deploy`</code> to update the github page!
+                        </i>
+                    </h2>
+                </div>
             </React.Fragment>
         );
     }
