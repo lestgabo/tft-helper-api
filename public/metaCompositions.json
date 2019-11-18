@@ -1,0 +1,235 @@
+[
+    {
+        "composition": ["Vayne", "Nasus", "Jax", "Yorick", "Soraka", "Aatrox", "Master Yi", "Kindred"],
+        "mainCarry": [
+            {
+                "champ": "Vayne",
+                "items": ["Guinsoo's Rageblade", "Runaan's Hurricane"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": ["Deathblade", "Rapid Firecannon", "Bloodthirster", "Hextech Gunblade", "Hand Of Justice"],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            }
+        ],
+        "altCarry": [
+            {
+                "champ": "Jax",
+                "items": ["Iceborn Gauntlet"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            },
+            {
+                "champ": "Nasus",
+                "items": ["Warmog's Armor", "Thornmail", "Hand Of Justice"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            }
+        ],
+        "comments": "Option to Hyperroll@3-1 Vayne/Nasus L9: +Shadow/Cloud Lux",
+        "rank": "S",
+        "sources": [
+            {
+                "user": "Saint",
+                "link": "https://lolchess.gg/builder/set2?deck=7d7785a0fd6611e9894d3106132c8bdd"
+            },
+            {
+                "user": "Sologesang",
+                "link": "https://lolchess.gg/builder/set2?deck=38fd19d0009011eaa49529f05f99373c"
+            }
+        ]
+    },
+    {
+        "composition": ["Zed", "Annie", "Yorick", "Brand", "Syndra", "Vladimir", "Nautilus", "Thresh"],
+        "mainCarry": [
+            {
+                "champ": "Zed",
+                "items": ["Guardian Angel", "Ionic Spark", "Redemption"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            }
+        ],
+        "altCarry": [
+            {
+                "champ": "Brand",
+                "items": ["Rabadon's Deathcap"],
+                "itemsAlternative": ["Jeweled Gauntlet", "Seraph's Embrace", "Red Buff"],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            }
+        ],
+        "comments": "Late: Nami for Thresh L9: +Electric/ Infernal/ Ocean Lux",
+        "rank": "S",
+        "sources": [
+            {
+                "user": "Saint",
+                "link": "https://lolchess.gg/builder/set2?deck=f7248210ffc611e990d19d11f7808a5a"
+            }
+        ]
+    },
+    {
+        "composition": ["Rek'Sai", "Warwick", "Braum", "Olaf", "Volibear", "Dr. Mundo", "Kog'Maw", "Singed"],
+        "mainCarry": [
+            {
+                "champ": "Kog'Maw",
+                "items": ["Statikk Shiv", "Luden's Echo", "Ionic Spark"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            }
+        ],
+        "altCarry": [
+            {
+                "champ": "Olaf",
+                "items": ["Red Buff", "Bloodthirster"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            },
+            {
+                "champ": "Singed",
+                "items": ["Morellonomicon", "Frozen Heart", "Phantom Dancer"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            }
+        ],
+        "comments": "",
+        "rank": "S",
+        "sources": [
+            {
+                "user": "Sologesang",
+                "link": "https://lolchess.gg/builder/set2?deck=9d004090047411eabc2fe353318660bc"
+            }
+        ]
+    },
+    {
+        "composition": ["Yorick", "Malzahar", "Azir", "Sivir", "Aatrox", "Master Yi", "Yasuo", "Janna"],
+        "mainCarry": [
+            {
+                "champ": "Sivir",
+                "items": ["Giant Slayer", "Runaan's Hurricane"],
+                "itemsAlternative": ["Bloodthirster", "Sword Breaker", "Hush", "Red Buff", "Deathblade"],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            }
+        ],
+        "altCarry": [
+            {
+                "champ": "Master Yi",
+                "items": ["Warmog's Armor", "Iceborn Gauntlet", "Phantom Dancer"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            },
+            {
+                "champ": "Azir",
+                "items": ["Zeke's Herald"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            }
+        ],
+        "comments": "",
+        "rank": "S -",
+        "sources": [
+            {
+                "user": "/u/UkoeHB",
+                "link": "https://www.reddit.com/r/CompetitiveTFT/comments/dqyeht/set_2_current_strongest_comp/"
+            },
+            {
+                "user": "Sologesang",
+                "link": "https://lolchess.gg/builder/set2?deck=bad8d4c0009911eabc554f6671c78393"
+            }
+        ]
+    },
+    {
+        "composition": ["Qiyana_Cloud", "Kha'Zix", "Zed", "Aatrox", "Sivir", "Master Yi", "Yasuo", "Janna"],
+        "mainCarry": [
+            {
+                "champ": "Kha'Zix",
+                "items": ["Seraph's Embrace", "Infinity Edge", "Bloodthirster"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            }
+        ],
+        "altCarry": [
+            {
+                "champ": "Zed",
+                "items": ["Guardian Angel"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            },
+            {
+                "champ": "Yasuo",
+                "items": ["Iceborn Gauntlet"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            },
+            {
+                "champ": "Sivir",
+                "items": ["Sword Breaker", "Hush"],
+                "itemsAlternative": [],
+                "itemsToChooseFrom": [],
+                "champWithData": {},
+                "itemsWithData": [],
+                "itemsAlternativeWithData": [],
+                "itemsToChooseFromWithData": []
+            }
+        ],
+        "comments": "Look to 3* Sivir/Yasuo. Alt: 3*Nocturne-carry",
+        "rank": "S",
+        "sources": [
+            {
+                "user": "Saint",
+                "link": "https://lolchess.gg/builder/set2?deck=bc6f4740f8eb11e9aa558d5bb8788884"
+            }
+        ]
+    }
+]
