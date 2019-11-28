@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/tft-helper-api/static/css/main.b100e6da.chunk.css",
-    "main.js": "/tft-helper-api/static/js/main.db12d1d7.chunk.js",
-    "main.js.map": "/tft-helper-api/static/js/main.db12d1d7.chunk.js.map",
-    "runtime-main.js": "/tft-helper-api/static/js/runtime-main.d62f2fdd.js",
-    "runtime-main.js.map": "/tft-helper-api/static/js/runtime-main.d62f2fdd.js.map",
-    "static/js/2.99ec64cc.chunk.js": "/tft-helper-api/static/js/2.99ec64cc.chunk.js",
-    "static/js/2.99ec64cc.chunk.js.map": "/tft-helper-api/static/js/2.99ec64cc.chunk.js.map",
+    "main.js": "/tft-helper-api/static/js/main.51d3487f.chunk.js",
+    "main.js.map": "/tft-helper-api/static/js/main.51d3487f.chunk.js.map",
+    "runtime-main.js": "/tft-helper-api/static/js/runtime-main.ec36d99c.js",
+    "runtime-main.js.map": "/tft-helper-api/static/js/runtime-main.ec36d99c.js.map",
+    "static/js/2.7b961a0a.chunk.js": "/tft-helper-api/static/js/2.7b961a0a.chunk.js",
+    "static/js/2.7b961a0a.chunk.js.map": "/tft-helper-api/static/js/2.7b961a0a.chunk.js.map",
     "index.html": "/tft-helper-api/index.html",
-    "precache-manifest.25d1cd8723ae933d21ea943faa9fcdb8.js": "/tft-helper-api/precache-manifest.25d1cd8723ae933d21ea943faa9fcdb8.js",
+    "precache-manifest.13a936e3ec81d197d52626037361a16e.js": "/tft-helper-api/precache-manifest.13a936e3ec81d197d52626037361a16e.js",
     "service-worker.js": "/tft-helper-api/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/tft-helper-api/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d62f2fdd.js",
-    "static/js/2.99ec64cc.chunk.js",
+    "static/js/runtime-main.ec36d99c.js",
+    "static/js/2.7b961a0a.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.db12d1d7.chunk.js"
+    "static/js/main.51d3487f.chunk.js"
   ]
 }
