@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter, Route, Link } from 'react-router-dom';
+import { HashRouter, Route } from 'react-router-dom';
 
 import './App.css';
 import API from './components/API';
